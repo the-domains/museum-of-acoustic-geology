@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Museum of Acoustic Geology]]></title>
         <description><![CDATA[The Museum of Acoustic Geology]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.museumofacousticgeology.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 16:58:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 17:01:10 GMT</lastBuildDate>
+        <atom:link href="http://www.museumofacousticgeology.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dda4c29-52cf-4df1-b825-25f37420d0cc.jpg">]]></description>
+            <link>http://www.museumofacousticgeology.org/beced286-91c0-4fd3-a549-5f2ff746f3ac/index.html</link>
+            <guid isPermaLink="false">beced286-91c0-4fd3-a549-5f2ff746f3ac</guid>
+            <pubDate>Wed, 24 Feb 2016 17:00:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This sand, imported by MoAG’s branch at the dunes of Altyn-Emel National Park in Kazakhstan, is an acoustic threshold to the Silurian period, when arid conditions prevailed across Earth. Follow these instructions:</p>]]></description>
-            <link>undefined617f7611-8931-4566-9443-34ce6b286c95/index.html</link>
+            <link>http://www.museumofacousticgeology.org/617f7611-8931-4566-9443-34ce6b286c95/index.html</link>
             <guid isPermaLink="false">617f7611-8931-4566-9443-34ce6b286c95</guid>
             <pubDate>Wed, 24 Feb 2016 16:57:54 GMT</pubDate>
         </item>
