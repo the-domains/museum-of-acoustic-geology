@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Museum of Acoustic Geology]]></title>
+        <description><![CDATA[The Museum of Acoustic Geology]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Feb 2016 16:58:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This sand, imported by MoAG’s branch at the dunes of Altyn-Emel National Park in Kazakhstan, is an acoustic threshold to the Silurian period, when arid conditions prevailed across Earth. Follow these instructions:</p>]]></description>
+            <link>undefined617f7611-8931-4566-9443-34ce6b286c95/index.html</link>
+            <guid isPermaLink="false">617f7611-8931-4566-9443-34ce6b286c95</guid>
+            <pubDate>Wed, 24 Feb 2016 16:57:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
