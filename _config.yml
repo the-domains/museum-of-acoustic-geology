@@ -1,20 +1,4 @@
-name: Museum of Acoustic Geology
-favicon: null
-layout_spectrum: 0.75139
 typography_spectrum: 0.4048612709157169
-title: The Museum of Acoustic Geology
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5413597761653364
   saturation: 0.34824593644589186
   rhythmicContrast: 0.468915713718161
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75139
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Museum of Acoustic Geology
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The Museum of Acoustic Geology
+description: Rock on.
 purpose: []
